@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Elguerrero|MoonWalker</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Junior developer, currently learning and improving my skills.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Stellar-Framework](https://github.com/Elguerrero11/Stellar-Framework) and on [Stellar-Minigame-Framework](https://github.com/Elguerrero11/Stellar-Minigame-Framework)<br>
-🌱 I’m currently learning Java<br>
+🔭 Currently working on private and personal projects<br>
+🌱 Learning Java and Kotlin, focused on backend and application development<br>
 💬 You can ask me about Java, Gradle and develope minecraft plugins<br>
 📗 I have knowledge of develop minecraft plugins using Spigot-API and Paper-API<br>
 🚀 I love the innovation<br>
