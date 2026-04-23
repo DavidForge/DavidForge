@@ -11,9 +11,9 @@
 
 
 # 💻 Tech Stack:
-<p> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://imgs.search.brave.com/xaiwRMZt_NxhT2lTZ0dOY-U5grbHGtDOEVtrcH7doMM/rs:fit:924:638:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9H/cmFkbGVfbG9nb18w/Mi5wbmc" alt="gradle" width="40" height="40"/> 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
 </p>
 
 
