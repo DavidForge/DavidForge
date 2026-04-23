@@ -2,14 +2,12 @@
 <h3 align="center">Junior developer, currently learning and improving my skills.</h3>
 
 # 💫 About Me:
-🔭 Currently working on private and personal projects<br>
-🌱 Learning Java and Kotlin, focused on backend and application development<br>
 
+🛠️ Working on private and personal projects<br>
+🌱 Building skills in Java & Kotlin (Backend & Application Development)<br>
 
-💡 Focus: Backend Development, Software Architecture & Cybersecurity<br>
-🔧 Other Interests: Systems Administration, DevOps, Game Development & Automation<br>
-
-🚀 I love the innovation!<br>
+🎯 Interests: Backend Development, Software Architecture & Cybersecurity<br>
+🔧 Also interested in: Systems Administration, DevOps, Game Development & Automation<br>
 
 
 # 💻 Tech Stack:
