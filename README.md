@@ -4,6 +4,11 @@
 # 💫 About Me:
 🔭 Currently working on private and personal projects<br>
 🌱 Learning Java and Kotlin, focused on backend and application development<br>
+
+
+💡 Focus: Backend Development, Software Architecture & Cybersecurity<br>
+🔧 Other Interests: Systems Administration, DevOps, Game Development & Automation<br>
+
 🚀 I love the innovation!<br>
 
 
